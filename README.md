@@ -6,5 +6,6 @@
 
 To combile in the default wsl terminal on wondows:
 - gcc -nostartfiles -nostdlib -no-pie -g -o main main.s <br/>
+
 To run in the default wsl terminal on wondows:
 - ./main
